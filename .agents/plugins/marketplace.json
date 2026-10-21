@@ -9024,6 +9024,21 @@
       "installation_url": "https://github.com/BrantonLiu/promptiff#readme"
     },
     {
+      "name": "proof-of-done",
+      "displayName": "proof-of-done",
+      "description": "Claude Code plugin that blocks the agent from finishing after code changes until tests, build or lint pass after the last edit, rejecting hidden exit codes, runs that executed 0 tests and flaky pass-after-fail reruns (`/plugin install proof-of-done@claude-code-skills`)",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "owner": "WST2002",
+      "repo": "claude-code-skills",
+      "url": "https://github.com/WST2002/claude-code-skills",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ],
+      "install_url": "https://raw.githubusercontent.com/WST2002/claude-code-skills/HEAD/plugins/proof-of-done/.claude-plugin/plugin.json"
+    },
+    {
       "name": "Prove-It Mini",
       "displayName": "Prove-It Mini",
       "description": "Pytest Stop hook for Claude Code that runs your tests when the agent tries to finish after code changes, hands red results back up to two times, then marks the result \"NOT verified\"; no model calls, pure Python standard library",
