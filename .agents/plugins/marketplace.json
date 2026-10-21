@@ -13735,6 +13735,21 @@
       "repo": "max-skills",
       "url": "https://github.com/vasinl124/max-skills",
       "installation_url": "https://github.com/vasinl124/max-skills#readme"
+    },
+    {
+      "name": "Global Engineering Standards",
+      "displayName": "Global Engineering Standards",
+      "description": "Twelve engineering standards and six Claude Code and Codex skills for security, privacy, cost and architecture, installable with `npm install -g @enki-dev-expert/global-engineering-standards`",
+      "category": "Agent Skills",
+      "source": "awesome-ai-plugins",
+      "platform": "agent-skills",
+      "ecosystems": [
+        "agent-skills"
+      ],
+      "owner": "Enki-DEV-expert",
+      "repo": "engineering-standards",
+      "url": "https://github.com/Enki-DEV-expert/engineering-standards",
+      "installation_url": "https://github.com/Enki-DEV-expert/engineering-standards#readme"
     }
   ]
 }

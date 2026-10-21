@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-21",
-  "total": 965,
+  "total": 966,
   "platforms": [
     "codex",
     "grok",
@@ -12780,6 +12780,20 @@
       "source": "awesome-ai-plugins",
       "platform": "agent-skills",
       "installation_url": "https://github.com/vasinl124/max-skills#readme",
+      "ecosystems": [
+        "agent-skills"
+      ]
+    },
+    {
+      "name": "Global Engineering Standards",
+      "url": "https://github.com/Enki-DEV-expert/engineering-standards",
+      "owner": "Enki-DEV-expert",
+      "repo": "engineering-standards",
+      "description": "Twelve engineering standards and six Claude Code and Codex skills for security, privacy, cost and architecture, installable with `npm install -g @enki-dev-expert/global-engineering-standards`",
+      "category": "Agent Skills",
+      "source": "awesome-ai-plugins",
+      "platform": "agent-skills",
+      "installation_url": "https://github.com/Enki-DEV-expert/engineering-standards#readme",
       "ecosystems": [
         "agent-skills"
       ]
