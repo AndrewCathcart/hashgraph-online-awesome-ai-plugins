@@ -12199,6 +12199,21 @@
       "installation_url": "https://github.com/kerlenton/mcpsnoop#readme"
     },
     {
+      "name": "mcptoon",
+      "displayName": "mcptoon",
+      "description": "MCP server: one zero-dependency CLI that turns 255 MCP tool schemas into a 581-token name index and fetches the full schema only when a tool is called",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "ecosystems": [
+        "mcp"
+      ],
+      "owner": "activeing123",
+      "repo": "mcptoon",
+      "url": "https://github.com/activeing123/mcptoon",
+      "installation_url": "https://github.com/activeing123/mcptoon#readme"
+    },
+    {
       "name": "memory-mcp",
       "displayName": "memory-mcp",
       "description": "MCP server: persistent agent memory with semantic recall served as a remote streamable-HTTP endpoint \u2014 your wallet address is your private namespace, no accounts or API keys, paid per call in USDC on Base via x402, with a free wallet-signed tier",
