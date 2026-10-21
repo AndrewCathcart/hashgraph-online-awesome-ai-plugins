@@ -10267,6 +10267,21 @@
       "install_url": "https://raw.githubusercontent.com/rizukirr/vibekit/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "VibeRaven",
+      "displayName": "VibeRaven",
+      "description": "Skill pack and plugin that give coding agents architecture, provider and release context, with repository check-and-fix workflows for Vercel and Supabase apps",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "owner": "ohad6k",
+      "repo": "VibeRaven",
+      "url": "https://github.com/ohad6k/VibeRaven",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "install_url": "https://raw.githubusercontent.com/ohad6k/VibeRaven/HEAD/.codex-plugin/plugin.json"
+    },
+    {
       "name": "Web Search MCP",
       "displayName": "Web Search MCP",
       "description": "Comprehensive FastMCP server giving LLMs real-time web access across search engines (DuckDuckGo, Exa), social platforms (Reddit, Hacker News, GitHub, X, LinkedIn), and academic tools (arXiv, Wikipedia), with SSRF-protected URL fetching",
